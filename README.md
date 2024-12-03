@@ -25,7 +25,7 @@ Technometrics_Submit contains the various codes and files for reproducing the fi
 1. 1_PaintSims_Study.R will recreate the Paint study in Stricklin et al. (2024).
 2. 2_SubmitFigs.R will recreate the figures in Stricklin et al. (2024).
 
-Note that reproducing some of the figures in Stricklin et al. (2024) requires loading large .rda files. These files can be obtained by contacting the author at mstricklin@lanl.gov. 
+Note that reproducing some of the figures in Stricklin et al. (2024) requires loading large .rda files (e.g, FTIRSimsResults_2sources_3test_24Sep24.rda). These files can be obtained by contacting the author at mstricklin@lanl.gov. 
 
 ## Attribution and Copyright
 
