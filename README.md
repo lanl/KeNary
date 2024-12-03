@@ -23,6 +23,4 @@ Installation should take less than 15 minutes on a normal desktop computer.
 
 If you use any of the KeNary framework or results in your work, please cite the following paper:
 
-Madeline A. Stricklin\textsuperscript{a}\thanks{CONTACT Madeline A. Stricklin. Email: mstricklin@lanl.gov}, Brian P. Weaver\textsuperscript{a}, James E. Lee\textsuperscript{b}, Ryan N. Farley\textsuperscript{b}, Rachel C. Huber\textsuperscript{c}, Kimberly N. Wurth\textsuperscript{d}, and Allison C. Aiken\textsuperscript{b}
-
 MA Stricklin, BP Weaver, JE Lee, RN Farley, RC Huber, KN Wurth, AC Aiken, KeNary Classification: A Probabilistic Kernel-Based $n$-ary Classification Method for Sets of Observations, Submitted to Technometrics.
