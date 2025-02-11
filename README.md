@@ -32,3 +32,7 @@ Note that reproducing some of the figures in Stricklin et al. (2024) requires lo
 If you use any of the KeNary framework or results in your work, please cite the following paper:
 
 MA Stricklin, BP Weaver, JE Lee, RN Farley, RC Huber, KN Wurth, AC Aiken, KeNary Classification: A Probabilistic Kernel-Based $n$-ary Classification Method for Sets of Observations, Submitted to Technometrics.
+
+© 2025. Triad National Security, LLC. All rights reserved.
+
+This program was produced under U.S. Government contract 89233218CNA000001 for Los Alamos National Laboratory (LANL), which is operated by Triad National Security, LLC for the U.S. Department of Energy/National Nuclear Security Administration. All rights in the program are reserved by Triad National Security, LLC, and the U.S. Department of Energy/National Nuclear Security Administration. The Government is granted for itself and others acting on its behalf a nonexclusive, paid-up, irrevocable worldwide license in this material to reproduce, prepare. derivative works, distribute copies to the public, perform publicly and display publicly, and to permit others to do so.
