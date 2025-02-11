@@ -1,4 +1,4 @@
-The following outlines the files contained in the folder 'Reproduce FIgures'.
+The following outlines the files contained in the folder 'Reproduce Figures'.
 
 The following **R files** can be used to reproduce the figures presented in Stricklin et al. (2024):
 1. 0_SubmitFigs.R: contains the R code to reproduce the figures; 
