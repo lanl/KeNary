@@ -20,12 +20,7 @@ Installation should take less than 15 minutes on a normal desktop computer.
 
 ## Files of Interest 
 
-Technometrics_Submit contains the various codes and files for reproducing the figures contained in Stricklin et al. (2024):
-
-1. 1_PaintSims_Study.R will recreate the Paint study in Stricklin et al. (2024).
-2. 2_SubmitFigs.R will recreate the figures in Stricklin et al. (2024).
-
-Note that reproducing some of the figures in Stricklin et al. (2024) requires loading large .rda files (e.g, FTIRSimsResults_2sources_3test_24Sep24.rda). These files can be obtained by contacting the author at mstricklin@lanl.gov. 
+See the folder **Reproduce Figures** for relevant files to recreate the figures presented in Stricklin et al. (2024). 
 
 ## Attribution and Copyright
 
