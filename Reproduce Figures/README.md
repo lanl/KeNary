@@ -1,4 +1,4 @@
-This folder contains the files used to reproduce the figures presented in Stricklin et al. (2024). Note: Due to storage limitations induced by Los Alamos National Laboratory, results from experiments must be downloaded from [this google drive](https://drive.google.com/drive/folders/1giX6cbTxLFEvis-Q_Y8DHdaFZ8IGcDcI?usp=sharing).
+#### This folder contains the files used to reproduce the figures presented in Stricklin et al. (2024). Note: Due to storage limitations induced by Los Alamos National Laboratory, results from experiments must be downloaded from [this google drive](https://drive.google.com/drive/folders/1giX6cbTxLFEvis-Q_Y8DHdaFZ8IGcDcI?usp=sharing).
 
 The following .R files can be used to *reproduce the figures* presented in Stricklin et al. (2024):
 1. 0_SubmitFigs.R: contains the R code to reproduce the figures; 
@@ -13,18 +13,6 @@ The following .rData file contains the data used to *reproduce Figure 5* in Stri
 
 The following .csv file contains the sources of the paint data studied in each of the experiments considered in *Section 4: Method Demonstration: A Forensic Paint Dataset*:
 1. source_grid.csv: source combinations considered in each experiment in Section 4.
-
-The following **.rda** files contain the simulated spectra used to obtain the results presented in *Section 4: Method Demonstration: A Forensic Paint Dataset*:
-1. Sim_Spectra_1.rda: simulated spectra for the first 83 paint cans used for various experiments contained in Section 4; 
-2. Sim_Spectra_2.rda: simulated spectra for the second 83 paint cans used for various experiments contained in Section 4.
->[!IMPORTANT] 
-> Due to file size restrictions, the original Sim_Spectra.rda file had to be split up into two files. 
-Be sure to create a single .rda file called Sim_Spectra.rda that combines these two files to seamlessly run your code. 
-Load each of Sim_Spectra_1.rda and Sim_Spectra_2.rda and then run the following lines of code to create this file:
->
-> sim.spectra = c(sim_spectra_1, sim_spectra_2)
->
-> save(sim.spectra, file='Sim_Spectra.rda')
 
 The following .h5 files contain the data used in *Section 5: A Blind Study: A Forensic Soot Dataset* of Stricklin et al. (2024):
 1. CompB_Air_1d_V_BC.h5: chemical data corresponding to soot formed under air atmosphere during detonation of composition B-3; 
