@@ -1,4 +1,4 @@
-#### This folder contains the files used to reproduce the figures presented in Stricklin et al. (2024). Note: Due to storage limitations induced by Los Alamos National Laboratory, results from experiments must be downloaded from [this google drive](https://drive.google.com/drive/folders/1giX6cbTxLFEvis-Q_Y8DHdaFZ8IGcDcI?usp=sharing).
+#### This folder contains the files used to reproduce the figures presented in Stricklin et al. (2024). Note: Due to storage limitations induced by Los Alamos National Laboratory, results from experiments must be downloaded from [this google drive](https://drive.google.com/drive/folders/1giX6cbTxLFEvis-Q_Y8DHdaFZ8IGcDcI?usp=sharing). More information is provided in the note below.
 
 The following .R files can be used to *reproduce the figures* presented in Stricklin et al. (2024):
 1. 0_SubmitFigs.R: contains the R code to reproduce the figures;
@@ -24,3 +24,5 @@ The following .h5 files contain the data used in *Section 5: A Blind Study: A Fo
 >
 > 1. Sim_Spectra.rda: simulated spectra for all paint cans used for various experiments;
 > 2. FTIRSimsResults_*.rda: results corresponding to 2-8 source scenario experiments.
+>
+> Alternatively, the google drive also contains the files outlined in this README file, and can be downloaded together with the .rda files. 
