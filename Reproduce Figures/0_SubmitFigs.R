@@ -24,11 +24,15 @@ library(fda)
 library(rhdf5)
 
 ### Set working directory
-setwd('/Users/mausdemore/Documents/GitHub/kenary/Technometrics_Submit')  
+setwd('/Users/mausdemore/Documents/LANLGit/KeNary/Reproduce Figures/')  
 
 ### Load data required for plots 
 # Load simulated pseudo-spectra
-load('Sim_Spectra.rda')
+load('Sim_Spectra_1.rda')
+load('Sim_Spectra_2.rda')
+sim.spectra = c(sim_spectra_1, sim_spectra_2)
+rm(sim_spectra_1)
+rm(sim_spectra_2)
 # Load data to recreate image from Ausdemore et al.
 load("RMP_dat_N5_M3_fixed_trace.rData")
 # Load observed paint can 19
