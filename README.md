@@ -22,6 +22,8 @@ Installation should take less than 15 minutes on a normal desktop computer.
 
 See the folder **Reproduce Figures** for relevant files to recreate the figures presented in Stricklin et al. (2025). 
 
+The folder **Paint Data** contains the different .csv files used in the analysis presented in Stricklin et al. (2025).
+
 ## Attribution and Copyright
 
 If you use any of the KeNary framework or results in your work, please cite the following paper:
